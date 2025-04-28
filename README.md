@@ -1,4 +1,8 @@
 ### study-of-basic-gates
+### NAME:M.JOHNPALL
+### REFNO:212224040140
+### DATE:19/04/2025
+
 
 **AIM:** 
 
